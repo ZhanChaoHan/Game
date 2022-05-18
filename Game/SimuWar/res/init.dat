@@ -1,0 +1,27 @@
+//--------------------
+// Res Pack
+resSz=2
+res0.FNm=./res/res_and_s2.zip
+res0.Rt =res_and_s2/
+
+res1.FNm=./res/res_cmn.zip
+res1.Rt =res_cmn/
+
+//--------------------
+// Save Dir
+dirBs=dat/res_and_s2
+
+//--------------------
+// Sound
+sndVol=75
+
+//--------------------
+// Lang Key
+lngKey=en
+
+//--------------------
+// Layout Android
+scrW=440
+scrH=660
+layoutFNm=./res/layout.android.dat
+

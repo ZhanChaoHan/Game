@@ -1,0 +1,51 @@
+//--------------------
+// Spec
+specLow=1
+
+// View Mode
+// 1 - VW_TYP_SML
+vwTyp=1
+
+//--------------------
+// Font Size
+fntDfltSz=22
+fntSmlSz =17
+fntXSmlSz=14
+
+//--------------------
+// StrBtn Size
+btnHDflt =42
+btnHBold =72
+
+//--------------------
+// Light Box
+lghtBox_frmMrgn =0
+lghtBox_frmPddng=12
+
+//--------------------
+// Dialog Layout
+dlg_mrgnOut=12
+dlg_mrgnIn =5
+dlg_mrgnTtl=12
+dlg_btnH   =72
+dlg_btnYBck=-54
+dlg_btnPgW =60
+
+//--------------------
+// Game Button Layout
+gmBtnOutMrgn=0
+gmBtnOutMrgnL=1
+
+//--------------------
+// Map All
+mapAllWMax=100
+mapAllHMax=150
+
+//--------------------
+// View Act Log
+vwActLog=0
+
+//--------------------
+// Calc Frame
+rtClcParFrm=3
+rtClcFrmMin=20

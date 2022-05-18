@@ -1,0 +1,4 @@
+cnnctTmOut=1000
+http.proxyHost=
+http.proxyPort=
+readTmOut=1000

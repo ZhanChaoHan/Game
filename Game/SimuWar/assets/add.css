@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+/* Delta Cascading Style.		*/
+/* Author	: Masakazu Yanai	*/
+/* Redid	: 2010/08/11		*/
+
+@media screen, print{
+
+/* ============================================ */
+/* Pic */
+.picBck {
+	margin: 12px;
+}
+.picBckIn {
+	display: inline;
+	border: solid 1px #CCCCCC;
+	background: #AAAAAA;
+}
+.picBckIn img {
+	border: 8px solid #AAAAAA; 
+}
+.cap {
+	font-size: 80%;
+	font-weight: bold;
+}
+
+}
